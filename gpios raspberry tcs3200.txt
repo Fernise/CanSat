@@ -1,6 +1,0 @@
-GPIO 23 ----> S0 
-GPIO 24 ----> S1 
-GPIO 25 ----> S2 
-GPIO 8 ----> S3
-GPIO 7 ----> OUT 
- 
